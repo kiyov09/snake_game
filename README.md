@@ -1,1 +1,1 @@
-#Simple CLI Snake Game
+# Simple CLI Snake Game
